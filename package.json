@@ -1,0 +1,16 @@
+{
+  "name": "archivo-azul-settings",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "scraping": "node ./crawler/index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^8.2.5",
+    "puppeteer": "^19.2.2"
+  }
+}
